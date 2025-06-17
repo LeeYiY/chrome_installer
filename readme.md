@@ -16,10 +16,10 @@
 * [win canary arm64](https://github.com/LeeYiY/chrome_installer?tab=readme-ov-file#win-canary-arm64)
 
 ## win stable x86
-**最新版本**：137.0.7151.104  
-**文件大小**：104.67 MB  
-**校验值（Sha256）**：6a06af1c459b1ae327b6f2cfb5ef177bf3d3ebe1dbe32cffc229ffd938591bf7  
-**下载链接**：[https://dl.google.com/release2/chrome/buclkgkk4nqq2xkzl36zoxcrcy_137.0.7151.104/137.0.7151.104_chrome_installer.exe](https://dl.google.com/release2/chrome/buclkgkk4nqq2xkzl36zoxcrcy_137.0.7151.104/137.0.7151.104_chrome_installer.exe)  
+**最新版本**：137.0.7151.120  
+**文件大小**：327.89 MB  
+**校验值（Sha256）**：582c0cf1918346a01742df847bad6416a325d80d1393ad837f999cb5f831a884  
+**下载链接**：[https://dl.google.com/release2/chrome/mxtsosczbkcftx3sehopj5kmfm_137.0.7151.120/137.0.7151.120_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/mxtsosczbkcftx3sehopj5kmfm_137.0.7151.120/137.0.7151.120_chrome_installer_uncompressed.exe)  
 
 ## win stable x64
 **最新版本**：137.0.7151.104  
@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/jtrmgdjsywydorgf5m7ddbbiga_139.0.7232.3/139.0.7232.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jtrmgdjsywydorgf5m7ddbbiga_139.0.7232.3/139.0.7232.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7244.0  
-**文件大小**：333.75 MB  
-**校验值（Sha256）**：ed721b967a3d3bcb5e5caa5a573283ea4443a18e308596c03e94e87630a8ac72  
-**下载链接**：[https://dl.google.com/release2/chrome/acgizcgnbpkhbwcax6weoemkbk4a_139.0.7244.0/139.0.7244.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acgizcgnbpkhbwcax6weoemkbk4a_139.0.7244.0/139.0.7244.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7244.1  
+**文件大小**：495.55 MB  
+**校验值（Sha256）**：f7429ba3afd70ed13fe6751c1d84e74020c6a844f3f2e99ea15cba8e442f71cd  
+**下载链接**：[https://dl.google.com/release2/chrome/pwoabjt2vtw6rg2qolvy67fmqa_139.0.7244.1/139.0.7244.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pwoabjt2vtw6rg2qolvy67fmqa_139.0.7244.1/139.0.7244.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：139.0.7244.0  
