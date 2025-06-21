@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ggo6n6ecnyzhnic6mus76uwnrq_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ggo6n6ecnyzhnic6mus76uwnrq_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7251.0  
-**文件大小**：334.3 MB  
-**校验值（Sha256）**：ec0ca5f9fdeae3a6a170261b78537ad4dedd220ec06ced98f5017ce359c22f9b  
-**下载链接**：[https://dl.google.com/release2/chrome/ppkvky7mbw4dfhuk2vxml2qgyu_139.0.7251.0/139.0.7251.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ppkvky7mbw4dfhuk2vxml2qgyu_139.0.7251.0/139.0.7251.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7252.0  
+**文件大小**：333.77 MB  
+**校验值（Sha256）**：71a2e2b0de40aaf0e3fbebe24de29a78aa15111055c87d52b93e7f760328d557  
+**下载链接**：[https://dl.google.com/release2/chrome/c3oggii3x3zylms4vpvp6otidm_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/c3oggii3x3zylms4vpvp6otidm_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：139.0.7252.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ppfyxbnmmbwroalozz6744ftva_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ppfyxbnmmbwroalozz6744ftva_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：139.0.7251.1  
-**文件大小**：552.66 MB  
-**校验值（Sha256）**：d6dfa16cbae8b3c42bde76b3359586601a7f7f4a8986ad1a7e4bc9c79fb066d2  
-**下载链接**：[https://dl.google.com/release2/chrome/cztx7ikn5msepp2ckuk6symnjm_139.0.7251.1/139.0.7251.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cztx7ikn5msepp2ckuk6symnjm_139.0.7251.1/139.0.7251.1_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7252.0  
+**文件大小**：396.09 MB  
+**校验值（Sha256）**：c56114f7967253e6069237e60b5a3510d8a40355d8d1e9c035df626e2e28d99c  
+**下载链接**：[https://dl.google.com/release2/chrome/acpbhpwmm2fggzdy6jxwzqd5jtma_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acpbhpwmm2fggzdy6jxwzqd5jtma_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe)  
 
