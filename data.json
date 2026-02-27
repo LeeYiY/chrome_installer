@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "147.0.7706.0",
-        "size": 449410472,
-        "sha1": "98da736b64bde0ad3b36fc3264815d70996a36fb",
-        "sha256": "320d5eb1a986018860a0d718bc8c439a49af5400315338d135515563d223a83d",
+        "version": "147.0.7706.1",
+        "size": 631686568,
+        "sha1": "4a54ca238a5c509fd59cf278661a613ea6473d9b",
+        "sha256": "e8f0287d9e4b2ed3fd5989ddedde86d09b3136336c80323eb954a73cf868861e",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe",
-            "http://dl.google.com/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe",
-            "https://dl.google.com/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe",
-            "http://www.google.com/dl/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe",
-            "https://www.google.com/dl/release2/chrome/adh7qtum4yff2nmc45fhy4xt6uva_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe",
+            "http://dl.google.com/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe",
+            "https://dl.google.com/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe",
+            "http://www.google.com/dl/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe",
+            "https://www.google.com/dl/release2/chrome/acvpnknsnmveaxihxrw2xmky7o3q_147.0.7706.1/147.0.7706.1_chrome_installer_uncompressed.exe"
         ]
     }
 }
