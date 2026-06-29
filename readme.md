@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ldd6ilxchpzpjs6bwin24yjnhq_151.0.7912.0/151.0.7912.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ldd6ilxchpzpjs6bwin24yjnhq_151.0.7912.0/151.0.7912.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：151.0.7920.0  
-**文件大小**：398.86 MB  
-**校验值（Sha256）**：ab9692e97fc96dd4902960a57dda146823290fa3779f12109c17b86263583bca  
-**下载链接**：[https://dl.google.com/release2/chrome/hgkh3azbo4tbstryusmdyklsqi_151.0.7920.0/151.0.7920.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/hgkh3azbo4tbstryusmdyklsqi_151.0.7920.0/151.0.7920.0_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7920.1  
+**文件大小**：595.33 MB  
+**校验值（Sha256）**：ce5bf8cb93e2e41d9afe6e9cb62740943347f0b5b247bb25ad9f067cce8f3e4e  
+**下载链接**：[https://dl.google.com/release2/chrome/a6v2jfmumnepulbw4jkote2zhm_151.0.7920.1/151.0.7920.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/a6v2jfmumnepulbw4jkote2zhm_151.0.7920.1/151.0.7920.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：151.0.7921.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/oellaj4zulpjj4jei5bgtjn34i_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/oellaj4zulpjj4jei5bgtjn34i_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：151.0.7920.1  
-**文件大小**：650.76 MB  
-**校验值（Sha256）**：b074240d04e6992e139a925912fce8a587fea8a74882d10a2b0e6e6c0d62f020  
-**下载链接**：[https://dl.google.com/release2/chrome/aumxu22hfrus6wruukwnfzhxzy_151.0.7920.1/151.0.7920.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aumxu22hfrus6wruukwnfzhxzy_151.0.7920.1/151.0.7920.1_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7921.0  
+**文件大小**：463.87 MB  
+**校验值（Sha256）**：c52e52b3993e7666f47257a3610337ea7a4c4053328f68315f5817945df62a5e  
+**下载链接**：[https://dl.google.com/release2/chrome/adlzw5udgnh23tdta33hk54ltoya_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adlzw5udgnh23tdta33hk54ltoya_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe)  
 
