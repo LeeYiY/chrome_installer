@@ -83,7 +83,7 @@
 
 ## win canary arm64
 **最新版本**：153.0.7991.4  
-**文件大小**：579.52 MB  
-**校验值（Sha256）**：d7972a521affd96b77fd1f22de666ef6516e3a3f14b07a28a8ea9b32648b252e  
-**下载链接**：[https://dl.google.com/release2/chrome/ad3yjkjtoujx3ij22edqzaote6oa_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3yjkjtoujx3ij22edqzaote6oa_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe)  
+**文件大小**：656.58 MB  
+**校验值（Sha256）**：5d4dea34d0faac3890343fdbc42c0282759a4ebf9e0e90e6c62c1a16102b6647  
+**下载链接**：[https://dl.google.com/release2/chrome/adr6yzrnocx7glpwgros7w54wc4q_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adr6yzrnocx7glpwgros7w54wc4q_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe)  
 
