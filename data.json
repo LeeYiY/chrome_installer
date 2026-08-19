@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "154.0.8011.0",
-        "size": 495690152,
-        "sha1": "6cb2072684df6ff7c072b0583a57378c47beee2b",
-        "sha256": "4544891c0c3d236b96c731630497d71ae83a6428691a58054b1f25b545261448",
+        "version": "154.0.8011.1",
+        "size": 720652200,
+        "sha1": "06560cf58ded347ead8707f14258cd79d914a21d",
+        "sha256": "9ff6ed1b5dc3e82f5376151ad4d51484e5b98a05cb4ded737ac28eb477afae9f",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe",
-            "http://dl.google.com/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe",
-            "https://dl.google.com/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe",
-            "http://www.google.com/dl/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe",
-            "https://www.google.com/dl/release2/chrome/acm2fmwbmm5vltpdadgto4xqq2cq_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe",
+            "http://dl.google.com/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe",
+            "https://dl.google.com/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe",
+            "http://www.google.com/dl/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe",
+            "https://www.google.com/dl/release2/chrome/adsxledmudfayjhm44dm76psopza_154.0.8011.1/154.0.8011.1_chrome_installer_uncompressed.exe"
         ]
     }
 }
