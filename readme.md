@@ -70,20 +70,20 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adeljwebyioinezdk5yxfiawvdtq_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adeljwebyioinezdk5yxfiawvdtq_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：156.0.8063.1  
+**最新版本**：156.0.8063.3  
 **文件大小**：423 MB  
-**校验值（Sha256）**：490208e575d86092bd2424e0f9709a5c4ba261c244d7c7223bd90289b01d9312  
-**下载链接**：[https://dl.google.com/release2/chrome/ac5h2ykazvqln4rws3pknxkk7k7a_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac5h2ykazvqln4rws3pknxkk7k7a_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：d0f2d343efd09b248ce97a1738168ed49b8a4e25465fd233323d48c6dd2cc82a  
+**下载链接**：[https://dl.google.com/release2/chrome/oyko5hvvb77jumpnjszzjkqnfa_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/oyko5hvvb77jumpnjszzjkqnfa_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：156.0.8063.1  
+**最新版本**：156.0.8063.3  
 **文件大小**：499.27 MB  
-**校验值（Sha256）**：bd2c62d24d3a23a958e973ff890befcc0d28ab00553490db6eee095626621507  
-**下载链接**：[https://dl.google.com/release2/chrome/bcxq4a6h3esfejitwz33ky5yui_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/bcxq4a6h3esfejitwz33ky5yui_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：158c2e492a99dac49a0354253143b61a452dec1e89e300d258babb3293cd88a8  
+**下载链接**：[https://dl.google.com/release2/chrome/accmclomysumvg4uxmazufnkki4q_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/accmclomysumvg4uxmazufnkki4q_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：156.0.8063.1  
+**最新版本**：156.0.8063.3  
 **文件大小**：474.61 MB  
-**校验值（Sha256）**：4c61a0cecf7da3b4bc4ed297141e04b6c9a26fb7a2b9d03a886eb06fbed9e43c  
-**下载链接**：[https://dl.google.com/release2/chrome/ac4uqug6sjtzkjic4djzs3ebreia_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac4uqug6sjtzkjic4djzs3ebreia_156.0.8063.1/156.0.8063.1_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：2856731c2f60529fdd53dd9265e2684aea3733ae1a566fc0c10faa10194be0fb  
+**下载链接**：[https://dl.google.com/release2/chrome/aduqnxmrrrdlymicvgccna2mdoxq_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aduqnxmrrrdlymicvgccna2mdoxq_156.0.8063.3/156.0.8063.3_chrome_installer_uncompressed.exe)  
 
