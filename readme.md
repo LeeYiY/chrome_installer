@@ -40,10 +40,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adoghhlg7hoyq7hd6oqfy5svdahq_157.0.8103.6/157.0.8103.6_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adoghhlg7hoyq7hd6oqfy5svdahq_157.0.8103.6/157.0.8103.6_chrome_installer_uncompressed.exe)  
 
 ## win beta x64
-**最新版本**：156.0.8078.17  
-**文件大小**：500.64 MB  
-**校验值（Sha256）**：7b3d80c1ad35eddf560774eaff9fde1ef61cfaf716608abb19f5464b9057f56d  
-**下载链接**：[https://dl.google.com/release2/chrome/acddklhek2rnbpebk7h5gq6mwp5q_156.0.8078.17/156.0.8078.17_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acddklhek2rnbpebk7h5gq6mwp5q_156.0.8078.17/156.0.8078.17_chrome_installer_uncompressed.exe)  
+**最新版本**：157.0.8103.6  
+**文件大小**：504.56 MB  
+**校验值（Sha256）**：5135a04741abecd17e9bbdafda1b020ee3c28f5ea5cfb9bea5f8f37549c2627b  
+**下载链接**：[https://dl.google.com/release2/chrome/iwjidgstjxzjsebd7i465bbhsu_157.0.8103.6/157.0.8103.6_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/iwjidgstjxzjsebd7i465bbhsu_157.0.8103.6/157.0.8103.6_chrome_installer_uncompressed.exe)  
 
 ## win beta arm64
 **最新版本**：157.0.8103.6  
