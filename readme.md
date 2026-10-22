@@ -70,20 +70,20 @@
 **下载链接**：[https://dl.google.com/release2/chrome/eggmr7bt4ebzqnr74npw2dbt2i_158.0.8106.0/158.0.8106.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/eggmr7bt4ebzqnr74npw2dbt2i_158.0.8106.0/158.0.8106.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：158.0.8117.0  
-**文件大小**：437.89 MB  
-**校验值（Sha256）**：177bc23f6586c3e972bc8f84b5b2503b350a4693bcb1de509ea6df5409f9c33b  
-**下载链接**：[https://dl.google.com/release2/chrome/acx5tf5rzmd2o3wxmpaua4qkzmia_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acx5tf5rzmd2o3wxmpaua4qkzmia_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe)  
+**最新版本**：158.0.8118.0  
+**文件大小**：438.21 MB  
+**校验值（Sha256）**：f4ede1749504b463f772deaa0e1bd4568f57ab36803c3d23bd133f9a98b01a9c  
+**下载链接**：[https://dl.google.com/release2/chrome/kxcnw7df2k7nla3lmwfuacc4la_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/kxcnw7df2k7nla3lmwfuacc4la_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：158.0.8117.0  
-**文件大小**：512.26 MB  
-**校验值（Sha256）**：dfc1634f3706930d9aa3507add0219429f75eee2960abebba2e90f3096e0aec0  
-**下载链接**：[https://dl.google.com/release2/chrome/aclvww7wzwkf6k5bafxnefhudbga_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aclvww7wzwkf6k5bafxnefhudbga_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe)  
+**最新版本**：158.0.8118.0  
+**文件大小**：512.4 MB  
+**校验值（Sha256）**：a2179d6783b338d1b4634168962c3a04719774ab77a472dc151990b11c20f75d  
+**下载链接**：[https://dl.google.com/release2/chrome/nkhrqcgebf64ixz56r5pmb4m2a_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/nkhrqcgebf64ixz56r5pmb4m2a_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：158.0.8117.0  
-**文件大小**：483.55 MB  
-**校验值（Sha256）**：0067e4d1811623505320676260bc1b50185975f4d1df6a5c056c03900d724531  
-**下载链接**：[https://dl.google.com/release2/chrome/m4c6qusr7kig55b6msk7rppp4m_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/m4c6qusr7kig55b6msk7rppp4m_158.0.8117.0/158.0.8117.0_chrome_installer_uncompressed.exe)  
+**最新版本**：158.0.8118.0  
+**文件大小**：483.9 MB  
+**校验值（Sha256）**：2a3b237181414a339798a6b5920ca41bc030098c81172ecad283e191324874be  
+**下载链接**：[https://dl.google.com/release2/chrome/ackjzgihsmbx7pim53lgvelhbzya_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ackjzgihsmbx7pim53lgvelhbzya_158.0.8118.0/158.0.8118.0_chrome_installer_uncompressed.exe)  
 
