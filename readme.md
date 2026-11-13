@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ac7guip32ddivytjwl5o4tvqd7fq_159.0.8144.0/159.0.8144.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac7guip32ddivytjwl5o4tvqd7fq_159.0.8144.0/159.0.8144.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：160.0.8157.1  
-**文件大小**：598.54 MB  
-**校验值（Sha256）**：16807de5bc56711ceec3531d0823fe95c95bc578d817b913f44c18f386b624ab  
-**下载链接**：[https://dl.google.com/release2/chrome/acf5z6k5d4jndko4xf3hczxd7zlq_160.0.8157.1/160.0.8157.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acf5z6k5d4jndko4xf3hczxd7zlq_160.0.8157.1/160.0.8157.1_chrome_installer_uncompressed.exe)  
+**最新版本**：160.0.8158.0  
+**文件大小**：423.57 MB  
+**校验值（Sha256）**：c248097e1a27799b763d436556d1f1ccc65ef82a71dd1688439687ce501df08f  
+**下载链接**：[https://dl.google.com/release2/chrome/a3luhjscdtxfu5p74zqsw4iyjy_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/a3luhjscdtxfu5p74zqsw4iyjy_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：160.0.8158.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/bjpahmf3b7co4rchch3erw56da_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/bjpahmf3b7co4rchch3erw56da_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：160.0.8157.0  
-**文件大小**：488.16 MB  
-**校验值（Sha256）**：2655d74cc1348467c0f69b1a90dd58bc246a534658d530a7072a8db2fb9e898c  
-**下载链接**：[https://dl.google.com/release2/chrome/opg6bs6wfksg4dtyskfgk6c4ea_160.0.8157.0/160.0.8157.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/opg6bs6wfksg4dtyskfgk6c4ea_160.0.8157.0/160.0.8157.0_chrome_installer_uncompressed.exe)  
+**最新版本**：160.0.8158.0  
+**文件大小**：488.01 MB  
+**校验值（Sha256）**：4b60c81e2ae6081743f1296711c14e39dcaee992f1f4136d4c4de23df77ab50e  
+**下载链接**：[https://dl.google.com/release2/chrome/ac5t23akrl57zd32ui6hrfu57isq_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac5t23akrl57zd32ui6hrfu57isq_160.0.8158.0/160.0.8158.0_chrome_installer_uncompressed.exe)  
 
